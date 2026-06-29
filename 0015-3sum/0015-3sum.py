@@ -3,11 +3,11 @@ class Solution:
         nums.sort()
         res=[]
         n=len(nums)
-        for i in range (n-2):
+        for i in range (n-2): #this is importatn and in this question, all (i, left,right) shouldnt be equal to each thus if it goes to n-1, only one element will remian in the end , in that case let would be equal to right 
             left= i+1
             right=n-1
-            base=-1*nums[i]
-            if(i>0 and nums[i]==nums[i-1]):
+            base=-1*nums[i]# as if a+b+c=0 -> a+b=-c
+            if(i>0 and nums[i]==nums[i-1]):#should consider i values aswell, we are taking acre of similar left and right values below
                 continue
             while left<right :
                 sum=nums[left]+nums[right]
