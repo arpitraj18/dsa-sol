@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [2469-convert-the-temperature](https://github.com/arpitraj18/dsa-sol/tree/master/2469-convert-the-temperature) |
+| [3945-digit-frequency-score](https://github.com/arpitraj18/dsa-sol/tree/master/3945-digit-frequency-score) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
+| [3945-digit-frequency-score](https://github.com/arpitraj18/dsa-sol/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
 | ------- |
