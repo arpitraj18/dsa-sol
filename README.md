@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arpitraj18/dsa-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/arpitraj18/dsa-sol/tree/master/3945-digit-frequency-score) |
 ## Matrix
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/arpitraj18/dsa-sol/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/arpitraj18/dsa-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
