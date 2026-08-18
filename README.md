@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arpitraj18/dsa-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arpitraj18/dsa-sol/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/arpitraj18/dsa-sol/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arpitraj18/dsa-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/arpitraj18/dsa-sol/tree/master/3945-digit-frequency-score) |
 ## Matrix
