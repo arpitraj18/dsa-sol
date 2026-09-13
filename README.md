@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitraj18/dsa-sol/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/arpitraj18/dsa-sol/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arpitraj18/dsa-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -77,9 +78,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
