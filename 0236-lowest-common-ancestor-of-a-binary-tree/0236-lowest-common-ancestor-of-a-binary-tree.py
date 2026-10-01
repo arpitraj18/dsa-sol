@@ -18,5 +18,5 @@ class Solution:
             return root
         elif leftlca is not None :
             return leftlca
-        elif rightlca is not None :
+        else:
             return rightlca
