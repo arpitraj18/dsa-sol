@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/arpitraj18/dsa-sol/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/arpitraj18/dsa-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arpitraj18/dsa-sol/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/arpitraj18/dsa-sol/tree/master/0027-remove-element) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arpitraj18/dsa-sol/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/arpitraj18/dsa-sol/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/arpitraj18/dsa-sol/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/arpitraj18/dsa-sol/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitraj18/dsa-sol/tree/master/0424-longest-repeating-character-replacement) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/arpitraj18/dsa-sol/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arpitraj18/dsa-sol/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
