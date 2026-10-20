@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/arpitraj18/dsa-sol/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/arpitraj18/dsa-sol/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/arpitraj18/dsa-sol/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
@@ -208,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arpitraj18/dsa-sol/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
