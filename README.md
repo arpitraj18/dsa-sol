@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/arpitraj18/dsa-sol/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arpitraj18/dsa-sol/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitraj18/dsa-sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/arpitraj18/dsa-sol/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/arpitraj18/dsa-sol/tree/master/3838-weighted-word-mapping) |
