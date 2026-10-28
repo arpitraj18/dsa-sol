@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/arpitraj18/dsa-sol/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/arpitraj18/dsa-sol/tree/master/1929-concatenation-of-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/arpitraj18/dsa-sol/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/arpitraj18/dsa-sol/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/arpitraj18/dsa-sol/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arpitraj18/dsa-sol/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3110-score-of-a-string) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/arpitraj18/dsa-sol/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/arpitraj18/dsa-sol/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
