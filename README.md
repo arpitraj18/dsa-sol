@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/arpitraj18/dsa-sol/tree/master/2942-find-words-containing-character) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/arpitraj18/dsa-sol/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/arpitraj18/dsa-sol/tree/master/2769-find-the-maximum-achievable-number) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/arpitraj18/dsa-sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0113-path-sum-ii](https://github.com/arpitraj18/dsa-sol/tree/master/0113-path-sum-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -253,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arpitraj18/dsa-sol/tree/master/3898-find-the-degree-of-each-vertex) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
