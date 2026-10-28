@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arpitraj18/dsa-sol/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arpitraj18/dsa-sol/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/arpitraj18/dsa-sol/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arpitraj18/dsa-sol/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/arpitraj18/dsa-sol/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/arpitraj18/dsa-sol/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/arpitraj18/dsa-sol/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/arpitraj18/dsa-sol/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
