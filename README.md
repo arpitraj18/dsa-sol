@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/arpitraj18/dsa-sol/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arpitraj18/dsa-sol/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arpitraj18/dsa-sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arpitraj18/dsa-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/arpitraj18/dsa-sol/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/arpitraj18/dsa-sol/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
