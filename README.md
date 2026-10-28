@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/arpitraj18/dsa-sol/tree/master/2469-convert-the-temperature) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/arpitraj18/dsa-sol/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arpitraj18/dsa-sol/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/arpitraj18/dsa-sol/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/arpitraj18/dsa-sol/tree/master/3945-digit-frequency-score) |
