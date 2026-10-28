@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/arpitraj18/dsa-sol/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/arpitraj18/dsa-sol/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/arpitraj18/dsa-sol/tree/master/2469-convert-the-temperature) |
