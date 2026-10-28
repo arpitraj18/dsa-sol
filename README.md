@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arpitraj18/dsa-sol/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
+| [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/arpitraj18/dsa-sol/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/arpitraj18/dsa-sol/tree/master/2469-convert-the-temperature) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitraj18/dsa-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
+| [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3668-restore-finishing-order](https://github.com/arpitraj18/dsa-sol/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/arpitraj18/dsa-sol/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -265,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/arpitraj18/dsa-sol/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
