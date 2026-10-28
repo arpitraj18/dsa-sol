@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/arpitraj18/dsa-sol/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/arpitraj18/dsa-sol/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/arpitraj18/dsa-sol/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/arpitraj18/dsa-sol/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/arpitraj18/dsa-sol/tree/master/1920-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/arpitraj18/dsa-sol/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/arpitraj18/dsa-sol/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
