@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitraj18/dsa-sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/arpitraj18/dsa-sol/tree/master/1108-defanging-an-ip-address) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Breadth-First Search
 |  |
