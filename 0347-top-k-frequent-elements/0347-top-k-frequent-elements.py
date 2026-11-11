@@ -1,14 +1,19 @@
 from collections import Counter
-import heapq
-
+from typing import List
 class Solution:
     def topKFrequent(self, nums: list[int], k: int) -> list[int]:
-        count = Counter(nums)
-        min_heap = []
+        frequency_map=Counter(nums)
+        #creating a frequency bucket where the index reporenets the frequency count
+        n=len(nums)
+        buckets=[[] for _ in range(n+1)]
+        for number, freq in frequency_map.items():
+            buckets[freq].append(number)#appends the number at index freq
+        result=[]
+        #iterating backwards from highest possible
+        for freq in range(n,0,-1):
+            for number in buckets[freq]:
+                result.append(number)
+                if len(result)==k:
+                    return result
+        return result
         
-        for num, freq in count.items():
-            heapq.heappush(min_heap, (freq, num))
-            if len(min_heap) > k:
-                heapq.heappop(min_heap)
-                
-        return [num for freq, num in min_heap]
