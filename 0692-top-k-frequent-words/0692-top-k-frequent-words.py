@@ -8,7 +8,7 @@ class Solution:
         res=[]
         for i in range(len(buckets)-1,0,-1):
             if buckets[i]:
-                buckets[i].sort()
+                buckets[i].sort()#for every i that is for every frequency if there is motre than one words stored then it gets sorted
                 for word in buckets[i]:
                     res.append(word)
                     if len(res)==k:
