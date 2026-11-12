@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/arpitraj18/dsa-sol/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitraj18/dsa-sol/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
