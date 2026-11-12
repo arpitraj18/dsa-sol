@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/arpitraj18/dsa-sol/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/arpitraj18/dsa-sol/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/arpitraj18/dsa-sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitraj18/dsa-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/arpitraj18/dsa-sol/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/arpitraj18/dsa-sol/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/arpitraj18/dsa-sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/arpitraj18/dsa-sol/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/arpitraj18/dsa-sol/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/arpitraj18/dsa-sol/tree/master/1108-defanging-an-ip-address) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/arpitraj18/dsa-sol/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 | [1512-number-of-good-pairs](https://github.com/arpitraj18/dsa-sol/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/arpitraj18/dsa-sol/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/arpitraj18/dsa-sol/tree/master/3467-transform-array-by-parity) |
@@ -346,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/arpitraj18/dsa-sol/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/arpitraj18/dsa-sol/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
