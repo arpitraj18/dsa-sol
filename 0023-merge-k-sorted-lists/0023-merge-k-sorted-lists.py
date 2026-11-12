@@ -16,7 +16,7 @@ class Solution:
         tail=dummy
         while min_heap:
             _,_,smallest=heapq.heappop(min_heap)
-            tail.next=smallest
+            tail.next=smallest#links newly found smallest node onto end of growing merged list
             tail=tail.next
             if smallest.next:
                 heapq.heappush(min_heap,(smallest.next.val,count,smallest.next))
