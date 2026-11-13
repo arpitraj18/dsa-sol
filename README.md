@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/arpitraj18/dsa-sol/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/arpitraj18/dsa-sol/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/arpitraj18/dsa-sol/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0295-find-median-from-data-stream](https://github.com/arpitraj18/dsa-sol/tree/master/0295-find-median-from-data-stream) |
 | [0633-sum-of-square-numbers](https://github.com/arpitraj18/dsa-sol/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/arpitraj18/dsa-sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/arpitraj18/dsa-sol/tree/master/0977-squares-of-a-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/arpitraj18/dsa-sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/arpitraj18/dsa-sol/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/arpitraj18/dsa-sol/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arpitraj18/dsa-sol/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/arpitraj18/dsa-sol/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/arpitraj18/dsa-sol/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/arpitraj18/dsa-sol/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/arpitraj18/dsa-sol/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/arpitraj18/dsa-sol/tree/master/0621-task-scheduler) |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/arpitraj18/dsa-sol/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/arpitraj18/dsa-sol/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/arpitraj18/dsa-sol/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
